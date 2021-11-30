@@ -1,4 +1,12 @@
 <img width="1792" alt="TestPostman" src="https://user-images.githubusercontent.com/61560471/144142886-dbd17fc8-d080-4e34-b551-a298d6a7fa21.png">
+Below is the basic bacground and when temp >= 16 and temp <= 5 (spring weather basically)
+<img width="887" alt="spring" src="https://user-images.githubusercontent.com/61560471/144143010-0dc12e6f-a454-41c2-9a6d-e3f88c077285.png">
+Below is of summer weather
+<img width="887" alt="summer" src="https://user-images.githubusercontent.com/61560471/144143024-5c30a3f4-7153-4b27-893d-2790d9f3e5ad.png">
+Blow Winter
+<img width="887" alt="winter" src="https://user-images.githubusercontent.com/61560471/144143037-21876dd2-c148-4b26-b6fd-dcf162ee4905.png">
+and finally when it's Hot
+<img width="887" alt="hot" src="https://user-images.githubusercontent.com/61560471/144143043-52d516c6-3edf-4afc-bbd9-9e09ecfa1cd8.png">
 
 # Getting Started with Create React App
 
