@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-image: url('IMG_1017.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.app {
+  background-size: cover;
+  background-position: center;
+}
+.app.winter{
+  background-image: url('IMG_3201.jpeg');
+}
+.app.spring {
+  background-image: url('IMG_1098.jpg');
+}
+.app.summer {
+  background-image: url('IMG_0660.jpeg');
+}
+
+main {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, rgba(55, 50, 50, 0.2), rgba(75, 70, 70, 0.75));
+  padding: 25px;
+  
+}
+
+.search {
+  width: 50%;
+  
+}
+
+.search .search-box {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-top: 0%;
+  
+}
+.Date-City .date {
+  color: whitesmoke;
+  font-size: 20px;
+  font-weight: 250;
+  text-align: center;
+  
+}
+
+.Date-City .location {
+  color: whitesmoke;
+  font-size: 32px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 15%;
+ 
+}
+
+
+
+
+
+.icon-box {
+  text-align: center;
+}
+
+.icon-box .temp {
+  position: relative;
+  display: inline-block;
+  margin: 30px auto;
+  background-color: rgba(95, 43, 43, 0.2);
+  border-radius: 15px;
+
+  padding: 10px 20px;
+
+  color: white;
+  font-size: 120px;
+  font-weight: 700;
+
+  
+  text-align: center;
+  
+}
+
+.icon-box {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+  
+}
+.weather-descrip{
+  color: white;
+  font-size: 48px;
+}
